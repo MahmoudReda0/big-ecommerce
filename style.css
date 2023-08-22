@@ -1549,6 +1549,7 @@ td input{
     flex-wrap: wrap;
 }
 .feature-bag .boxs .box{
+    position: relative;
     width: 18%;
     margin-bottom: 50px;
 }
